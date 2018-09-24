@@ -1,11 +1,16 @@
 _repo: The-Achievement-of-the-British-Navy-in-the-World-War_56027
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 56027-h/images/cover.jpg
 creator:
   author:
     agent_name: Leyland, John
     gutenberg_agent_id: '48635'
     url: http://www.gutenberg.org/2009/agents/48635
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/56027#The-Achievement-of-the-British-Navy-in-the-World-War
 gutenberg_issued: '2017-11-22'
 gutenberg_type: Text
 identifiers:
